@@ -73,12 +73,6 @@ ohscrcpy -h
 - OpenHarmony 设备需要 `hdc.exe` 位于 `PATH`。
 - Android 设备需要 Android SDK Platform Tools 的 `adb.exe` 位于 `PATH`。
 
-## 安全说明
-
-发行包会裁剪调试符号并提供 SHA-256 校验，但客户端、设备端程序和 PowerShell
-脚本仍可能被反汇编、调试或逆向分析。符号裁剪只能增加分析成本，不能保证软件
-无法被破解。SHA-256 用于验证下载文件完整性，不是防逆向机制。
-
 ## License
 
 软件使用 Apache License 2.0。安装包内包含完整许可证、版权信息和第三方组件
