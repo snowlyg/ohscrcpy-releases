@@ -1,15 +1,20 @@
 # ohscrcpy
 
-[![Latest Release](https://img.shields.io/github/v/release/snowlyg/ohscrcpy-releases?display_name=tag&sort=semver)](../../releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/snowlyg/ohscrcpy-releases?display_name=tag&sort=semver)](https://github.com/snowlyg/ohscrcpy-releases/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 `ohscrcpy` 是面向 Windows 的 OpenHarmony 与 Android 设备投屏和远程控制工具，
 适用于真机调试、多设备状态对照和局域网设备操作。
 
-[下载最新版](../../releases/latest) ·
+[GitCode 国内下载](https://gitcode.com/snowlyg/ohscrcpy-releases/releases/latest) ·
+[GitHub 下载](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) ·
 [产品介绍](https://www.lodan.me/zh-cn/products/ohscrcpy/) ·
-[查看更新记录](../../releases)
+[查看更新记录](https://github.com/snowlyg/ohscrcpy-releases/releases)
+
+GitCode 与 GitHub 均发布相同的 Windows ZIP 和 `SHA256SUMS`。应用内更新默认使用
+GitCode 国内源，网络不可用时自动尝试 GitHub；也可以在“设置 > 更新与日志”中
+手动切换更新源。
 
 ## 核心能力
 
@@ -31,7 +36,8 @@
 
 ### 1. 下载并启动
 
-从 [Releases](../../releases/latest) 下载：
+优先从 [GitCode 国内镜像](https://gitcode.com/snowlyg/ohscrcpy-releases/releases/latest)
+下载，也可以使用 [GitHub Releases](https://github.com/snowlyg/ohscrcpy-releases/releases/latest)：
 
 - `ohscrcpy-windows-x64-<version>.zip`：Windows x64 程序包。
 - `SHA256SUMS-v<version>.txt`：程序包的 SHA-256 校验值。
@@ -150,7 +156,8 @@ Electron 控制界面会启动或复用 OHOS WebDebug bridge，并在 HDC 设备
 
 从 v0.1.5 开始，应用检测到新版本后会在左下角显示“立即更新”。内置更新器会
 下载 ZIP、校验 SHA-256，并在备份当前版本后完成替换和重启。也可以始终从
-[Releases](../../releases) 手动下载并解压新版本。
+[GitCode Releases](https://gitcode.com/snowlyg/ohscrcpy-releases/releases) 或
+[GitHub Releases](https://github.com/snowlyg/ohscrcpy-releases/releases) 手动下载并解压新版本。
 
 当前发布只支持 ZIP + SHA256SUMS。历史发布说明中可能出现 Chocolatey/nupkg
 等已废弃分发方式，不代表当前版本仍支持。
@@ -168,10 +175,10 @@ Electron 控制界面会启动或复用 OHOS WebDebug bridge，并在 HDC 设备
 
 ## 获取帮助
 
-- 查看 [最新版本说明](../../releases/latest) 了解功能变化和已知要求。
+- 查看 [最新版本说明](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) 了解功能变化和已知要求。
 - 使用 `ohscrcpy --help` 查看当前版本支持的完整命令行参数。
 - 远程会话启动失败时，使用界面的“导出诊断包”生成脱敏诊断 ZIP。
-- 通过 [Issues](../../issues) 反馈可复现的问题或功能建议。
+- 通过 [Issues](https://github.com/snowlyg/ohscrcpy-releases/issues) 反馈可复现的问题或功能建议。
 
 ## License
 
