@@ -81,7 +81,9 @@ Get-FileHash .\ohscrcpy-windows-x64-<version>.zip -Algorithm SHA256
 
 ## 获取帮助
 
-先查看 [最新版本说明](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) 和[故障排查](docs/troubleshooting.md)。如仍可复现，请在 [Issues](https://github.com/snowlyg/ohscrcpy-releases/issues) 中提供版本、平台、复现步骤和界面导出的脱敏诊断 ZIP；不要提交账号、密码、设备地址或未脱敏截图。
+先查看 [最新版本说明](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) 和[故障排查](docs/troubleshooting.md)。如仍可复现，请在 [Issues](https://github.com/snowlyg/ohscrcpy-releases/issues) 中提供版本、平台、复现步骤和界面导出的脱敏诊断 ZIP。
+
+> ⚠️ **隐私提醒：不要在 Issues 中提交账号、密码、设备地址、未脱敏截图或诊断原始数据。**
 
 ## License
 
