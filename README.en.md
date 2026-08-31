@@ -60,7 +60,9 @@ The result must exactly match the corresponding entry in `SHA256SUMS-v<version>.
 
 GitCode and GitHub carry the same Windows ZIP and checksum manifest. The built-in updater downloads a ZIP, verifies SHA-256, creates a backup, replaces the application, and restarts it. Current releases do not require Chocolatey, nupkg, or another package manager.
 
-Check the [latest release notes](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) and [troubleshooting guide](docs/troubleshooting.md) first. When opening an [issue](https://github.com/snowlyg/ohscrcpy-releases/issues), include the version, platform, reproduction steps, and the UI-exported redacted diagnostic ZIP. Never attach credentials, device addresses, or unredacted screenshots.
+Check the [latest release notes](https://github.com/snowlyg/ohscrcpy-releases/releases/latest) and [troubleshooting guide](docs/troubleshooting.md) first. When opening an [issue](https://github.com/snowlyg/ohscrcpy-releases/issues), include the version, platform, reproduction steps, and the UI-exported redacted diagnostic ZIP.
+
+> ⚠️ **Privacy reminder: Never submit credentials, device addresses, unredacted screenshots, or raw diagnostic data to Issues.**
 
 ## License
 
