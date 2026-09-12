@@ -15,6 +15,8 @@ One Windows workspace for remote display and control across OpenHarmony and Andr
 
 ![ohscrcpy 多设备投屏与控制界面](assets/ohscrcpy-overview.png)
 
+> 基于真实 ohscrcpy 界面与远程会话制作；设备身份和设备画面已通过 GPT Image 替换为虚构演示数据，并经过人工隐私复核。
+
 ## 为什么选择 ohscrcpy
 
 | 一套工作台 | 多设备并行 | 面向真实调试流程 |
@@ -29,6 +31,8 @@ One Windows workspace for remote display and control across OpenHarmony and Andr
 ## 真实操作预览
 
 ![ohscrcpy 双设备动态演示](assets/ohscrcpy-multi-device-demo.gif)
+
+> GIF 展示基于真实界面的两种脱敏会话状态；设备身份和画面均为虚构演示数据，不包含真实设备信息。
 
 ## 三步开始
 
@@ -59,6 +63,7 @@ Get-FileHash .\ohscrcpy-windows-x64-<version>.zip -Algorithm SHA256
 - GitCode 与 GitHub 发布相同的 ZIP 和校验清单。
 - 应用内更新默认使用 GitCode 国内源，失败时可尝试 GitHub；也可在“设置 > 更新与日志”中手动切换。
 - 内置更新器会先校验 SHA-256，再备份、替换并重启程序。
+- 当前版本不依赖 Chocolatey、nupkg 或其他包管理器。
 
 ## 环境要求
 
