@@ -15,8 +15,6 @@ One Windows workspace for remote display and control across OpenHarmony and Andr
 
 ![ohscrcpy 多设备投屏与控制界面](assets/ohscrcpy-overview.png)
 
-> 基于真实 ohscrcpy 界面与远程会话制作；设备身份和设备画面已通过 GPT Image 替换为虚构演示数据，并经过人工隐私复核。
-
 ## 为什么选择 ohscrcpy
 
 | 一套工作台 | 多设备并行 | 面向真实调试流程 |
@@ -31,8 +29,6 @@ One Windows workspace for remote display and control across OpenHarmony and Andr
 ## 真实操作预览
 
 ![ohscrcpy 双设备动态演示](assets/ohscrcpy-multi-device-demo.gif)
-
-> GIF 展示基于真实界面的两种脱敏会话状态；设备身份和画面均为虚构演示数据，不包含真实设备信息。
 
 ## 三步开始
 
