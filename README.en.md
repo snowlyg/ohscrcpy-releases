@@ -14,8 +14,6 @@
 
 ![ohscrcpy multi-device workspace](assets/ohscrcpy-overview.png)
 
-> Built from a real ohscrcpy UI and remote session. GPT Image replaced device identities and framebuffer content with fictional demo data, followed by manual privacy review.
-
 ## Highlights
 
 - **One workspace for HDC and ADB** with automatic platform routing and an explicit platform override.
@@ -27,8 +25,6 @@
 ## Live preview
 
 ![ohscrcpy live multi-device demo](assets/ohscrcpy-multi-device-demo.gif)
-
-> The GIF shows two sanitized session states based on the real interface. Device identities and screen content are fictional and contain no real device data.
 
 ## Quick start
 
