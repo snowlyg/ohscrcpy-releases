@@ -60,13 +60,6 @@ Check the [latest release notes](https://github.com/snowlyg/ohscrcpy-releases/re
 
 > ⚠️ **Privacy reminder: Never submit credentials, device addresses, unredacted screenshots, or raw diagnostic data to Issues.**
 
-## Support the project
-
-ohscrcpy is free and open source. If it helps you, consider buying the developer a coffee:
-
-- [PayPal](https://www.paypal.com/paypalme/snowlyg?country.x=C2&locale.x=zh_XC)
-- [Afdian](https://afdian.com/a/snowlyg)
-
 ## License
 
 Distributed under the [Apache License 2.0](LICENSE). The package includes licensing, copyright, and third-party attribution files.
