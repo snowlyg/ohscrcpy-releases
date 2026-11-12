@@ -81,6 +81,13 @@ Get-FileHash .\ohscrcpy-windows-x64-<version>.zip -Algorithm SHA256
 
 > ⚠️ **隐私提醒：不要在 Issues 中提交账号、密码、设备地址、未脱敏截图或诊断原始数据。**
 
+## 支持项目
+
+ohscrcpy 是免费开源项目。如果它对您有帮助，可以考虑请开发者喝杯咖啡：
+
+- [PayPal 打赏](https://www.paypal.com/paypalme/snowlyg?country.x=C2&locale.x=zh_XC)
+- [爱发电](https://afdian.com/a/snowlyg)
+
 ## License
 
 发行内容使用 [Apache License 2.0](LICENSE)。程序包内包含许可证、版权信息和第三方组件归属文件。
