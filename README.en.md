@@ -1,5 +1,9 @@
 # ohscrcpy
 
+> **HarmonyOS native screen casting — closed beta**
+>
+> Native HarmonyOS screen casting is currently in closed beta. To apply, email [brendenaudrina6287@gmail.com](mailto:brendenaudrina6287@gmail.com) with your device model, OS version, and testing needs. The device app is distributed through platform invitations. Screen sharing requires manual confirmation on the device.
+
 [![Latest Release](https://img.shields.io/github/v/release/snowlyg/ohscrcpy-releases?display_name=tag&sort=semver)](https://github.com/snowlyg/ohscrcpy-releases/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
