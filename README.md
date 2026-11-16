@@ -1,5 +1,9 @@
 # ohscrcpy
 
+> **纯血鸿蒙投屏内测招募**
+>
+> 纯血鸿蒙投屏目前处于内测阶段。有意参与的用户可发送邮件至 [brendenaudrina6287@gmail.com](mailto:brendenaudrina6287@gmail.com) 申请加入内测，请附上设备型号、系统版本和测试需求。内测通过平台邀请分发设备端应用，使用时需在设备上手动确认屏幕共享授权。
+
 [![Latest Release](https://img.shields.io/github/v/release/snowlyg/ohscrcpy-releases?display_name=tag&sort=semver)](https://github.com/snowlyg/ohscrcpy-releases/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
